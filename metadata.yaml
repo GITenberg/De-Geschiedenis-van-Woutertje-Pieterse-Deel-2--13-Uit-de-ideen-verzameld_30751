@@ -1,0 +1,39 @@
+_repo: De-Geschiedenis-van-Woutertje-Pieterse-Deel-2--13-Uit-de-ideen-verzameld_30751
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Multatuli
+    alias: Dekker, Eduard Douwes
+    birthdate: 1820
+    deathdate: 1887
+    gutenberg_agent_id: '3624'
+    url: http://www.gutenberg.org/2009/agents/3624
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Multatuli
+    - http://www.iisg.nl/bwsa/bios/douwes-dekker.html
+  editor:
+    agent_name: Bergh van Eysinga-Elias, Jeanette van den
+    aliases:
+    - Bergh van Eysinga, Jeanette van den
+    - Eysinga, Jeanette van den Bergh van
+    birthdate: 1880
+    deathdate: 1957
+    gutenberg_agent_id: '25465'
+    url: http://www.gutenberg.org/2009/agents/25465
+description: ''
+gutenberg_issued: '2009-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30751'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: "De Geschiedenis van Woutertje Pieterse, Deel 2\r\nUit de 'ideen' verzameld"
+url: http://www.gutenberg.org/ebooks/30751
