@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '25465'
     url: http://www.gutenberg.org/2009/agents/25465
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30751#De-Geschiedenis-van-Woutertje-Pieterse-Deel-2--13-Uit-de-ideen-verzameld
 gutenberg_issued: '2009-12-24'
 gutenberg_type: Text
 identifiers:
